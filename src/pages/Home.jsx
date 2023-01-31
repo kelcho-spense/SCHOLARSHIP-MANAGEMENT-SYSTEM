@@ -14,7 +14,7 @@ function Home() {
             <div className="hero-content flex-col lg:flex-row-reverse ">
               <img src={slider2} className="max-w-2xl rounded-lg shadow-2xl" alt='no pic' />
               <div className='hero1'>
-                <h1 className="text-5xl font-bold">Welcome to Udhamini Community</h1>
+                <h1 className="text-5xl font-bold">Welcome to Scholarship Management System</h1>
                 <p className="py-6">Udhamini is a platform where students can get  access to huge collection of Scholarships and apply for them.This bridges the gap between students searching for scholarships online and missing opportunities some of them due to the deadline</p>
                 <button className="btn btn-outline btn-warning"><Link to="/register">Register To Get Started</Link></button>
               </div>

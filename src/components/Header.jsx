@@ -56,7 +56,7 @@ function Header() {
         </div>
       </div>
       <div className="">
-        <Link className=" normal-case text-xl  xs:text-center xs:text-3xl xs:justify-self-center" to="/">💰 Ũdhamini App</Link>
+        <Link className=" normal-case text-xl  xs:text-center xs:text-3xl xs:justify-self-center" to="/">💰 Scholarships Management System</Link>
       </div>
       <div className="navbar-end hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
